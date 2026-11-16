@@ -9,6 +9,5 @@ metadata:
 spec:
   container:
   - name: debug
-    image: nginx
-    ports:
-    - containerPort: 80
+    image: suryasandy856/debug:v1 .
+
