@@ -53,7 +53,6 @@ spec:
           failureThreshold: 1
           periodSeconds: 15
 ---
-
 apiVersion: v1
 kind: Service
 metadata:
