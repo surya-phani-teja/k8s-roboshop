@@ -67,5 +67,5 @@ spec:
   ports: 
     - protocol: TCP
       port: 8080 #service port
-      targetPort: 8082 #contianerport
+      targetPort: 8080 #contianerport
 
